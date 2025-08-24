@@ -1,6 +1,6 @@
 # Python Barcode Reader
 
-A beginner-friendly Python project that reads barcodes from images using pyzbar and **Pillow**.  
+A beginner-friendly Python project that reads barcodes from images using **pyzbar** and **Pillow**.  
 Optionally, it can also use **OpenCV** to scan barcodes from a webcam.
 
 ---
